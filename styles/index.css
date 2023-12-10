@@ -1,0 +1,8 @@
+.box {
+  display:block;
+  border : 2px solid red;
+  inline-size: 550px;
+  writing-mode: vertical-lr;
+  block-size: 450px;
+
+}
