@@ -4,7 +4,6 @@ It is my front-end projects that provide a function about improve your English.
 | time | do what |
 |--------|--------|
 | 20231201  | create rep |
-| 20331217  | add main, sentence,words page desc |
 
 # 提交记录
 ## 20231215
