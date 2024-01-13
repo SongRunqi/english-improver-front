@@ -1,4 +1,4 @@
-const baseUrl = 'http://localhost:8080/';
+const baseUrl = 'http://8.141.83.81:8080/';
 function httpGet(theUrl)
 {
     var xmlHttp = new XMLHttpRequest();
